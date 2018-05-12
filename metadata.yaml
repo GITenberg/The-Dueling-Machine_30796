@@ -1,0 +1,46 @@
+_repo: The-Dueling-Machine_30796
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Schoenherr, John
+    aliases:
+    - Schoenherr, John (John Carl)
+    - Schoenherr, Jack
+    birthdate: 1935
+    deathdate: 2010
+    gutenberg_agent_id: '25396'
+    url: http://www.gutenberg.org/2009/agents/25396
+    wikipedia: http://en.wikipedia.org/wiki/John_Schoenherr
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Lewis, Myron R.
+    gutenberg_agent_id: '34829'
+    url: http://www.gutenberg.org/2009/agents/34829
+  - agent_name: Bova, Ben
+    alias: Bova, Benjamin William
+    birthdate: 1932
+    gutenberg_agent_id: '33114'
+    url: http://www.gutenberg.org/2009/agents/33114
+    wikipedia: http://en.wikipedia.org/wiki/Ben_Bova
+description: At first, the dueling machine seemed like a benign or even a helpful
+  invention, allowing people to blow off steam and solve conflicts in a virtual reality-like
+  environment. But before long, an evil tyrant discovers a way to use the device to
+  inflict real and lasting harm on participants. Will the intrepid scientist who invented
+  the technology be able to stop him before it's too late?
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2009-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30796'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: The Dueling Machine
+url: http://www.gutenberg.org/ebooks/30796
